@@ -5,8 +5,8 @@ for i in range(3):
     pd=input('请输入密码:')
     if account==zh and pwd==pd:
        input('恭喜您登录成功...')
-        break
-        pass
+    break
+    pass
 
     pass
 else:
